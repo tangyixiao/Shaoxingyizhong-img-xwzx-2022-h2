@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "跑道朱红、石灰白与天空留白的下半年运动场卷页：运动场横片撑满底部宽幅，教室与会议照片置于上方两枚小册页；红色块是版面实体，不只用在按钮。事实边界：2022 下半年分片，不把某张运动图当成特定赛事或成绩证明。",
+    "layout": "poster",
+    "palette": {
+      "light": {
+        "bg": "#E8D6C9",
+        "surface": "#F6ECE0",
+        "ink": "#482E27",
+        "muted": "#74594d",
+        "accent": "#a23f2e"
+      },
+      "dark": {
+        "bg": "#2C1C18",
+        "surface": "#422A21",
+        "ink": "#F7E6D5",
+        "muted": "#c5a18c",
+        "accent": "#ee9a70"
+      }
+    },
+    "threeConcept": "Three.js 采用可展开的朱红卷页与灰白照片夹，展开时宽幅运动图从卷页内露出；卷页只弯曲底纸，照片正面停留后恢复完整平面。",
+    "distinctiveInteraction": "拖动卷页把手横向展开宽图，单击室内小片切换为正面；提供“看完整图片”按钮，默认不自动摇镜。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "操场活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/10/202210110800024905.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/10/202210110800024905.jpg",
+      "path": "UploadFiles/xwzx/2022/10/202210110800024905.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "会议交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/11/202211140823298911.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/11/202211140823298911.jpg",
+      "path": "UploadFiles/xwzx/2022/11/202211140823298911.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "课堂展示，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/7/202207010911028386.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h2/blob/main/UploadFiles/xwzx/2022/7/202207010911028386.jpg",
+      "path": "UploadFiles/xwzx/2022/7/202207010911028386.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
